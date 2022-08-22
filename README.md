@@ -8,7 +8,7 @@ My name is Suphakorn Zhang. I'm Software Engineer Frontend from Thailand. I'm pa
 - 🧑‍💻 Contribute the open source project
 
 ### Achievements 🏆
-- 2021 Imagine Cup World Finalist Winner - Lifestyle Category (Organized by Microsoft)
+- 2021 Imagine Cup World Finalist Winner - Lifestyle Category (Organized by Microsoft) <br/>
   The project's called [JustSigns](https://www.justsigns.co/) which is a web application for content creators to automatically create sign language captions to improve the media accessibility for their hearing-impaired viewers. [Read more](https://imaginecup.microsoft.com/en-us/Team/a34c7ed1-2c4a-4519-be94-4bac00e0d11b)
 - Second class honor student in Bachelor of Engineering (Computer Engineering) at [King Mongkut's University of Technology Thonburi](https://www.kmutt.ac.th/en/)
 
