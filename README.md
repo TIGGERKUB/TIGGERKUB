@@ -23,7 +23,7 @@ My name is Suphakorn Zhang. I'm Software Engineer Frontend from Thailand. I'm pa
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat)
 
 ### Contact Me
-- ✉️ Email: tigerzhang91@gmail.com
+- ✉️ tigerzhang91@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/suphakorn-zhang-4b1761195/)
 
 <details>
