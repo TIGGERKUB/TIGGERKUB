@@ -1,7 +1,7 @@
 # Hi everyone 👋
 My name is Suphakorn Zhang. I'm Software Engineer Frontend from Thailand. I'm passionate in web development especially, building a web application with Typescript language and React framework.
 
-### What I'm doing now 
+### What I'm doing now 📌
 
 - 💼 Currently Working at [LINEMAN Wongnai](https://lmwn.com/) as a Software Engineer Frontend.
 - 💻 I'm learning Backend development
@@ -22,16 +22,16 @@ My name is Suphakorn Zhang. I'm Software Engineer Frontend from Thailand. I'm pa
 ![React Query Badge](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=flat)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat)
 
-### Contact Me
+### Contact Me 📪
 - [LinkedIn](https://www.linkedin.com/in/suphakorn-zhang-4b1761195/)
-- 📪 tigerzhang91@gmail.com
+- tigerzhang91@gmail.com
 
 <details>
 <summary>
 More Details
 </summary>
 
-### Technologies that I've experience
+### More Tech That I've Experience
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)
