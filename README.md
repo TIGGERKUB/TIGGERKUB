@@ -4,8 +4,6 @@ My name is Suphakorn Zhang. I'm Software Engineer Frontend from Thailand. I'm pa
 ### What I'm doing now 📌
 
 - 💼 Currently Working at [LINEMAN Wongnai](https://lmwn.com/) as a Software Engineer Frontend.
-- 💻 I'm learning Backend development
-- 🧑‍💻 Contribute the open source project
 
 ### Achievements 🏆
 - 2021 Imagine Cup World Finalist Winner - Lifestyle Category (Organized by Microsoft) <br/>
