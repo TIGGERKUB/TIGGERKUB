@@ -46,15 +46,8 @@ More Details
 ![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=flat)
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=tiggerkub" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=tiggerkub" height="150" alt="languages graph"  />
+<div align="left">
+  [![tiger's stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiggerkub)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/tiggerkub/tiggerkub/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 </details>
