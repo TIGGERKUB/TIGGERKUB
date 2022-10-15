@@ -46,8 +46,6 @@ More Details
 ![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=flat)
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
 
-<div align="left">
-  [![tiger's stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiggerkub)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Suphakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiggerkub&show_icons=true)
 
 </details>
