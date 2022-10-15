@@ -53,7 +53,7 @@ More Details
 
 ###
 
-<img src="https://raw.githubusercontent.com/tiggerk/tiggerk/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tiggerkub/tiggerkub/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
