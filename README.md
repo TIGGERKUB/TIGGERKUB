@@ -57,6 +57,4 @@ More Details
 
 ###
 
-Profile Readme Generator
-
 </details>
