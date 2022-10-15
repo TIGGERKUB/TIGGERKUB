@@ -29,6 +29,8 @@ My name is Suphakorn Zhang. I'm Software Engineer Frontend from Thailand. I'm pa
 - [LinkedIn](https://www.linkedin.com/in/suphakorn-zhang-4b1761195/)
 - tigerzhang91@gmail.com
 
+![Suphakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiggerkub&show_icons=true)
+
 <details>
 <summary>
 More Details
@@ -45,7 +47,5 @@ More Details
 ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)
 ![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=flat)
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
-
-![Suphakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiggerkub&show_icons=true)
 
 </details>
