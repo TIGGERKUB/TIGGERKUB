@@ -48,4 +48,6 @@ More Details
 ![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=flat)
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat)
 
+[![@tzensei's Holopin board](https://holopin.me/tzensei)](https://holopin.io/@tzensei)
+
 </details>
