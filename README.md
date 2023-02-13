@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-My name is Suphakorn Zhang. I'm Software Engineer Frontend from Thailand. I'm passionate in web development especially, building a web application with Typescript language and React framework.
+My name is Suphakorn Zhang. I'm Software Engineer Frontend from Thailand. I am particularly interested in using TypeScript and React to build performant and scalable web applications. I have experience working with various other technologies, including GraphQL and Apollo, and I enjoy exploring new tools and techniques to improve my skills and the quality of my work.
 
 ### What I'm doing now 📌
 
